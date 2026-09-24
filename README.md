@@ -19,14 +19,10 @@ The paper evaluates Q-SVMPC on navigation, robotic manipulation, and a real-worl
 ## Citation
 
 ```bibtex
-@misc{cai2026qsvmpc,
-  title         = {{Q-Guided Stein Variational Model Predictive Control via RL-informed Policy Prior}},
-  author        = {Cai, Shizhe and Yin, Zeya and Jacob, Jayadeep and Ramos, Fabio},
-  year          = {2026},
-  eprint        = {2507.06625},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.RO},
-  note          = {Accepted to IROS 2026},
-  url           = {https://arxiv.org/abs/2507.06625}
+@inproceedings{cai2026qsvmpc,
+  title     = {{Q-Guided Stein Variational Model Predictive Control via RL-informed Policy Prior}},
+  author    = {Cai, Shizhe and Yin, Zeya and Jacob, Jayadeep and Ramos, Fabio},
+  booktitle = {2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year      = {2026}
 }
 ```
